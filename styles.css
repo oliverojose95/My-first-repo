@@ -77,3 +77,25 @@ ul li:nth-child(7) {
   background: #673ab7;
   box-shadow: 0 0 50px #673ab7;
 }
+
+ul li:nth-child(8) {
+  animation-delay: -0.8s;
+  background: #4fc3f7;
+  box-shadow: 0 0 50px #4fc3f7;
+}
+ul li:nth-child(9) {
+  animation-delay: -0.8s;
+  background: #4fc3f7;
+  box-shadow: 0 0 50px #4fc3f7;
+}
+ul li:nth-child(10) {
+  animation-delay: -0.8s;
+  background: #4fc3f7;
+  box-shadow: 0 0 50px #4fc3f7;
+}
+
+ul li:nth-child(11) {
+  animation-delay: -0.8s;
+  background: #4fc3f7;
+  box-shadow: 0 0 50px #4fc3f7;
+}
